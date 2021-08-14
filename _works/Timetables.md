@@ -6,7 +6,7 @@ thumbnail: "https://previews.123rf.com/images/lculig/lculig1608/lculig160800487/
 
 **A1 Batch** 
 
-![A1 Batch Timetable](https://www.linkpicture.com/q/A1-Timetable_1.png) 
+![A1 Batch Timetable](https://www.linkpicture.com/q/A1-Timetable_2.png) 
 
 **A2 Batch**
 
