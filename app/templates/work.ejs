@@ -13,9 +13,49 @@
   <link rel="shortcut icon" href="../../assets/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="../../src/scss/init.scss">
   <link rel="stylesheet" href="../../src/scss/work.scss">
+
+  <title>Dark Mode</title>
+    <script src=
+"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js">
+    </script>
+     
+    <style>
+        .mode {
+            float:right;
+        }
+        .change {
+            cursor: pointer;
+            border: 1px solid #555;
+            border-radius: 40%;
+            width: 20px;
+            text-align: center;
+            padding: 5px;
+            margin-left: 8px;
+        }
+        .dark{
+            background-color: #222;
+            color: #e6e6e6;
+        }
+    </style>
 </head>
 
 <body>
+  <div class="mode">
+    Dark mode:            
+    <span class="change">OFF</span>
+</div>
+ 
+<script>
+    $( ".change" ).on("click", function() {
+        if( $( "body" ).hasClass( "dark" )) {
+            $( "body" ).removeClass( "dark" );
+            $( ".change" ).text( "OFF" );
+        } else {
+            $( "body" ).addClass( "dark" );
+            $( ".change" ).text( "ON" );
+        }
+    });
+</script>
   <header id="top-container" role="navigation">
   </header>
 
