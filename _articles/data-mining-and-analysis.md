@@ -21,4 +21,4 @@ tags: "dma, data_mining"
 
 # Github Links
 
-1. [DMA2021](https://github.com/ShankarSetty/DMA2021).
+1. [DMA2021 by Prof.Shankar](https://github.com/ShankarSetty/DMA2021).

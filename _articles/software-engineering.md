@@ -6,7 +6,7 @@ date: "14.08.2021"
 tags: "se, software_engineering"
 ---
 
-![Software engineering image](https://www.computerhope.com/jargon/s/software-engineering.jpg)
+![Software engineering image](https://www.computerhope.com/jargon/s/software-engineering.jpg).
 
 # Google Drive Links
 
