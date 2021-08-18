@@ -9,8 +9,8 @@ thumbnail: "https://www.pngfind.com/pngs/m/648-6480317_exam-png-image-pass-the-t
 
 | Date       | Title         | Timing         |
 |------------|---------------|----------------|
-| 20-08-2021 | Software Engineering | 7:45 - 8:45 PM |
-| 21-08-2021 | Data Mining & Analysis | 7:45 - 8:45 PM |
+| 19-08-2021 | Software Engineering | 7:45 - 8:45 PM |
+| 20-08-2021 | Data Mining & Analysis | 7:45 - 8:45 PM |
 |            |               |                |
 | 02-09-2021 | Software Engineering | 7:45 - 8:45 PM |
 | 03-09-2021 | Data Mining & Analysis | 7:45 - 8:45 PM |
