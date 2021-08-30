@@ -13,6 +13,11 @@ tags: "se, software_engineering"
 ## Notes by Nivesh ᕙ(`▿´)ᕗ
 1. [Introduction](https://drive.google.com/drive/folders/1Yec-eRGrWU8ynVRUbBcSNtLhO87IalfO?usp=sharing).
 
+## Handwritten Chapter-wise Notes [Thank you to the one who contributed. :)]
+1. [Software Engineering Process](https://drive.google.com/file/d/1KiO06W6rfykY-WsXHvYczgFHZOJQBgIJ/view?usp=sharing) 
+2. [Agile Software Development](https://drive.google.com/file/d/1UbQEKnMmhWtaQX6iEd6rrA7lA6VwT6tE/view?usp=sharing)
+3. [Requirement Engineering](https://drive.google.com/file/d/1LuLdLJOTWFyJh8PKQBJDg2Mg4dbTmoiU/view?usp=sharing)
+
 ## Notes by Prof.Prashant
 1. [Lesson Plan](https://drive.google.com/file/d/1zSbkEkrPWrQL_pP0PknWOesJpdfziD18/view?usp=sharing).
 2. [Chapter 01-08 [PDF]](https://drive.google.com/drive/folders/1HsFm_yybHaT05a17Fcd-b4RVSqU0ZVuT?usp=sharing)
