@@ -14,15 +14,28 @@ tags: "dma, data_mining"
 
 ### Notes by Prof.Shankar
 
+#### Minor-01
+
 1. [Chapter 01 - Part 01 [Data Pre-Preprocessing]](https://drive.google.com/file/d/1989do_EzpeR-hQ-LPF63GOjR3zxmuwPd/view).
 2. [Chapter 01 - Part 02 [Data Pre-Preprocessing]](https://drive.google.com/file/d/1iuj71GuUEQ4kyoscUn205lvtlq2EdSNV/view).
 3. [Chapter 02 - Part 01 [Frequent Pattern Mining]](https://drive.google.com/file/d/1EckNClAPFweoVlaInBAi--Pw4Jzr87kS/view).
 4. [Chapter 02 - Part 02 [Frequent Pattern Mining]](https://drive.google.com/file/d/1cH02RkjqQDWFVW40p5ULy9OHSosMzVNy/view).
 5. [Chapter 02 - Part 03 [Frequent Pattern Mining]](https://drive.google.com/file/d/1BEeK6VeoYMe_x-lTrbwBPddlOUcofZj0/view).
 
-### (っ◕‿◕)っ Notes by Nivesh  
+#### Minor-02
+
+6. [Chapter 03 - Part 01 [Classification Techniques]](https://drive.google.com/file/d/1jKN9ifkaCIZu5MfzELZoOn84QMEOMHsk/view)
+7. [Chapter 03 - Part 02 [Classification Techniques]](https://drive.google.com/file/d/1gJYCbqizjOqXFv19XBhv_xs1sPaPoKTk/view)
+8. [Chapter 03 - Part 03 [Classification Techniques]](https://drive.google.com/file/d/1bBEMLc5_7a_DhkkDE2OOGY7A3o9RTGLW/view)
+9. [Chapter 03 - Part 04 [Classification Techniques]](https://drive.google.com/file/d/1GDbRUlqUEkphOUEuIYObGgTYq3LwwbyM/view)
+10. [Chapter 03 - Part 05 [Classification Techniques]](https://drive.google.com/file/d/1tsVnFvZO90IWU8KCe_Cprd8-COpDFV8W/view)
+11. [Chapter 03 [Naive Bayes]](https://drive.google.com/file/d/1ALmtJP75SzXFmG2ISyXtYTQwHp1LXBdr/view)
+12. [Chapter 03[kNN]](https://drive.google.com/file/d/1yrqG9zLWmnBL4lcCmqSA13Yp8lDZT0wm/view)
+
+### (っ◕‿◕)っ Hand-written Notes 
 
 1. [Minor-01 Notes](https://drive.google.com/file/d/1JaexPnNvrRrs9CTmW5wcabuRBv69FMhd/view?usp=sharing)
+2. [Minor-02 Notes](https://drive.google.com/drive/folders/1rhRQxMs4ClQTuzWAbCETwqer5M16Rhv1?usp=sharing)
 
 ## Lab
 

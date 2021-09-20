@@ -10,11 +10,15 @@ tags: "se, software_engineering"
 
 # Google Drive Links
 
-## Handwritten Chapter-wise Notes 
-[Thank you to the one who contributed. ^_^]
+## (っ◕‿◕)っ Hand-written Notes 
+
+### Minor-01
 1. [Software Engineering Process](https://drive.google.com/file/d/1KiO06W6rfykY-WsXHvYczgFHZOJQBgIJ/view?usp=sharing) 
 2. [Agile Software Development](https://drive.google.com/file/d/1UbQEKnMmhWtaQX6iEd6rrA7lA6VwT6tE/view?usp=sharing)
 3. [Requirement Engineering](https://drive.google.com/file/d/1LuLdLJOTWFyJh8PKQBJDg2Mg4dbTmoiU/view?usp=sharing)
+
+### Minor-02
+4. [System Modelling//Architectural Design//Object-Oriented design and implementation](https://drive.google.com/file/d/1M8cVih38PW2WmL8LmZ4L5ylZGMIPoJ45/view?usp=sharing)
 
 ## Notes by Prof.Prashant
 1. [Lesson Plan](https://drive.google.com/file/d/1zSbkEkrPWrQL_pP0PknWOesJpdfziD18/view?usp=sharing).
