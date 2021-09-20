@@ -19,6 +19,8 @@ thumbnail: "https://i.ibb.co/Rp7LDCj/EXAM.png"
 2. Chapter - 02 [Agile Software Development]
 3. Chapter - 03 [Requirement Engineering]
 
+&nbsp;
+
 ##  Minor - 02
 
 ### 🔴D̲a̲t̲a̲ ̲M̲i̲n̲i̲n̲g̲ ̲&̲ ̲A̲n̲a̲l̲y̲s̲i̲s̲🔴
