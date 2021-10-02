@@ -7,7 +7,8 @@
 
 ### Please check contributing.md and follow the guidelines if you want to make changes.
     
-### Also, I am shipping out some stickers(and possibly a t-shirt) if you make a major contribution to the website. :)
+### Also, I am shipping out some stickers(and possibly a t-shirt) if you make a major contribution to the website. :) [p.s: There maybe some delay in shipping or if the shipping expenses are high, you may need to bear it.(in rare cases)]
+
     Major contributions involve(but not limited to) :
     1. Revamping and stylising to a major extent while maintaining the original feel of the website.
     2. Fixing and/or implementing new features which can extensively help the user.
