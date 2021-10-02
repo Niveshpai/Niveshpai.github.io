@@ -12,5 +12,5 @@
     Major contributions involve(but not limited to) :
     1. Revamping and stylising to a major extent while maintaining the original feel of the website.
     2. Fixing and/or implementing new features which can extensively help the user.
-    3. Fixing severe and critical security bugs.
+    3. Fixing severe and critical security bugs. [This may/may not be applicable since no backend is used.]
     4. Something unique and praise-worthy which is not within the above scope.
