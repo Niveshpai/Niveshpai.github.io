@@ -27,7 +27,7 @@ tags: "dma, data_mining"
 6. [Chapter 03 - Part 01 [Classification Techniques]](https://drive.google.com/file/d/1jKN9ifkaCIZu5MfzELZoOn84QMEOMHsk/view)
 7. [Chapter 03 - Part 02 [Classification Techniques]](https://drive.google.com/file/d/1gJYCbqizjOqXFv19XBhv_xs1sPaPoKTk/view)
 8. [Chapter 03 - Part 03 [Classification Techniques]](https://drive.google.com/file/d/1bBEMLc5_7a_DhkkDE2OOGY7A3o9RTGLW/view)
-9. [Chapter 03 - Part 04 [Classification Techniques]](hhttps://drive.google.com/file/d/11MDyGgiWPx97-XNt45zsDcZKtUqD2bH0/view?usp=sharing)
+9. [Chapter 03 - Part 04 [Classification Techniques]](https://drive.google.com/file/d/11MDyGgiWPx97-XNt45zsDcZKtUqD2bH0/view?usp=sharing)
 10. [Chapter 03 - Part 05 [Classification Techniques]](https://drive.google.com/file/d/1GDbRUlqUEkphOUEuIYObGgTYq3LwwbyM/view)
 11. [Chapter 03 - Part 06 [Classification Techniques]](https://drive.google.com/file/d/1tsVnFvZO90IWU8KCe_Cprd8-COpDFV8W/view)
 12. [Chapter 03 [Naive Bayes]](https://drive.google.com/file/d/1ALmtJP75SzXFmG2ISyXtYTQwHp1LXBdr/view)
