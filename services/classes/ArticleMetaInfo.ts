@@ -15,6 +15,7 @@ class ArticleMetaInfo implements ArticleMetaInfoModel {
     switch (name) {
       case 'id':
         this.id = Number(value);
+        this.id = Number(value)+10;
         break;
 
       case 'title':

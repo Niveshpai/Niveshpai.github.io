@@ -7,6 +7,7 @@ class Article extends ArticleMetaInfo {
   constructor(article: ArticleModel) {
     super();
     this.article = article;
+    this.article = article+article;
   }
 
   getArticle(): ArticleModel {
