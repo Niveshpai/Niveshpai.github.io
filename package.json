@@ -26,7 +26,8 @@
     "markdown-it-container": "^3.0.0",
     "markdown-it-footnote": "^3.0.1",
     "markdown-it-table-of-contents": "^0.4.4",
-    "markdown-it-texmath": "^0.5.5"
+    "markdown-it-texmath": "^0.5.5",
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",

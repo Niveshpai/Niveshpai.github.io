@@ -6,32 +6,34 @@ thumbnail: "https://i.ibb.co/Rp7LDCj/EXAM.png"
 
 ##  Minor - 01 
 
-### 🔴D̲a̲t̲a̲ ̲M̲i̲n̲i̲n̲g̲ ̲&̲ ̲A̲n̲a̲l̲y̲s̲i̲s̲🔴
+### ꧁⭑⭒ Blockchain and Distributed Ledgers ⭑⭒꧂
 
-1. Chapter - 01 [Data Pre-Processing]
-2. Chapter - 02 [Frequent Pattern Mining]
-
-&nbsp;
-
-### ⚠️S̲o̲f̲t̲w̲a̲r̲e̲ ̲E̲n̲g̲i̲n̲e̲e̲r̲i̲n̲g̲⚠️
-
-1. Chapter - 01 [Software Engineering Process]
-2. Chapter - 02 [Agile Software Development]
-3. Chapter - 03 [Requirement Engineering]
+1. Chapter - 01 [Introduction to Blockchain]
+2. Chapter - 02 [Cryptography Basics]
 
 &nbsp;
 
-##  Minor - 02
+### ꧁⭑⭒ Distibuted & Cloud Computing ⭑⭒꧂
 
-### 🔴D̲a̲t̲a̲ ̲M̲i̲n̲i̲n̲g̲ ̲&̲ ̲A̲n̲a̲l̲y̲s̲i̲s̲🔴
-
-1. Chapter - 03 [Classification Techniques]
-2. Chapter - 04 [Cluster Analysis]
+1. Chapter - 01 [Distributed System Models and Enabling Technologies]
+2. Chapter - 02 [Virtual Machines and Virtualization of Clusters]
+3. Chapter - 03 [Cloud Platform Architecture over Virtualized Data Centers]
 
 &nbsp;
 
-### ⚠️S̲o̲f̲t̲w̲a̲r̲e̲ ̲E̲n̲g̲i̲n̲e̲e̲r̲i̲n̲g̲⚠️
+### ꧁⭑⭒ Semantic Web ⭑⭒꧂
 
-1. Chapter - 04 [System Modeling]
-2. Chapter - 05 [Architectural Design]
-3. Chapter - 06 [Object-Oriented design and implementation]
+1. Chapter - 01 [Introduction to Semantics]
+2. Chapter - 02 [Expressing Meaning]
+3. Chapter - 03 [Using Semantic Data]
+
+&nbsp;
+
+### ꧁⭑⭒ Internet of Things ⭑⭒꧂
+
+1. Chapter - 01 [Introduction to Internet of Things (IoT)]
+2. Chapter - 02 [IoT Architecture]
+3. Chapter - 03 [Network protocols]
+
+&nbsp;
+
