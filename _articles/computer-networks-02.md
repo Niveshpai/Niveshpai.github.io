@@ -3,7 +3,7 @@ id: 4
 title: "Computer Networks - 02"
 subtitle: "Computer Networks Notes"
 date: "13.02.2022"
-tags: "cn-02, computer_networks"
+tags: "cn, computer_networks"
 ---
 
 ![Computer Networks image](https://p.kindpng.com/picc/s/33-334663_computer-network-internet-clip-art-computer-network-clip.png)
