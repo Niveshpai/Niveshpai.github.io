@@ -43,10 +43,9 @@ thumbnail: "https://i.ibb.co/Rp7LDCj/EXAM.png"
 2. Lesson 03 [Number System 1]
 3. Lesson 04 [Critical Reasoning]
 4. Lesson 07 [Percentages]
-5. Lesson 11 [Permutations and Combinations]
-
-===> <b>60 min 🡆 30 questions</b> <===
-===> <b>MCQ pattern with 4/5 choices</b> <===
-===> <b>No negative marking</b> <===
+5. Lesson 11 [Permutations and Combinations] \
+↪ **60 min 🡆 30 questions** \
+↪ **MCQ pattern with 4/5 choices** \
+↪ **No negative marking** 
 
 &nbsp;
