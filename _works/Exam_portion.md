@@ -40,7 +40,7 @@ thumbnail: "https://i.ibb.co/Rp7LDCj/EXAM.png"
 ### ꧁⭑⭒ PA&LR ⭑⭒꧂
 
 1. Lesson 02 [Number System 1]
-2. Lesson 03 [Number System 1]
+2. Lesson 03 [Number System 2]
 3. Lesson 04 [Critical Reasoning]
 4. Lesson 07 [Percentages]
 5. Lesson 11 [Permutations and Combinations] \
