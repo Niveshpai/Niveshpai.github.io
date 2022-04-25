@@ -1,5 +1,6 @@
 {
-  "name": "handmade-blog",
+  "homepage": "https://Niveshpai.github.io/notes",
+  "name": "notes",
   "version": "1.0.0",
   "description": "A static blog generator for people who want to start a blog quickly",
   "repository": {
