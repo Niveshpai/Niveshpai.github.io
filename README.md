@@ -14,3 +14,5 @@
     2. Fixing and/or implementing new features which can extensively help the user.
     3. Fixing severe and critical security bugs. [This may/may not be applicable since no backend is used.]
     4. Something unique and praise-worthy which is not within the above scope.
+
+### Thank you for participating. The offer has ended. :)
