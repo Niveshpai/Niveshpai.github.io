@@ -6,46 +6,32 @@ thumbnail: "https://i.ibb.co/Rp7LDCj/EXAM.png"
 
 ##  Minor - 01 
 
-### ꧁⭑⭒ Blockchain and Distributed Ledgers ⭑⭒꧂
+### ꧁** Data Mining and Analysis ⭑⭒꧂
 
-1. Chapter - 01 [Introduction to Blockchain]
-2. Chapter - 02 [Cryptography Basics]
-
-&nbsp;
-
-### ꧁⭑⭒ Distibuted & Cloud Computing ⭑⭒꧂
-
-1. Chapter - 01 [Distributed System Models and Enabling Technologies]
-2. Chapter - 02 [Virtual Machines and Virtualization of Clusters]
-3. Chapter - 03 [Cloud Platform Architecture over Virtualized Data Centers]
+1. Chapter - 01 [Data Pre-Processing]
+2. Chapter - 02 [Frequent Pattern Mining]
 
 &nbsp;
 
-### ꧁⭑⭒ Semantic Web ⭑⭒꧂
+### ꧁** Software Engineering ⭑⭒꧂
 
-1. Chapter - 01 [Introduction to Semantics]
-2. Chapter - 02 [Expressing Meaning]
-3. Chapter - 03 [Using Semantic Data]
-
-&nbsp;
-
-### ꧁⭑⭒ Internet of Things ⭑⭒꧂
-
-1. Chapter - 01 [Introduction to Internet of Things (IoT)]
-2. Chapter - 02 [IoT Architecture]
-3. Chapter - 03 [Network protocols]
+1. Chapter - 01 [Software Engineering Process]
+2. Chapter - 02 [Agile Software Development]
+3. Chapter - 03 [Requirement Engineering]
 
 &nbsp;
 
-### ꧁⭑⭒ PA&LR ⭑⭒꧂
+##  Minor - 02
 
-1. Lesson 02 [Number System 1]
-2. Lesson 03 [Number System 2]
-3. Lesson 04 [Critical Reasoning]
-4. Lesson 07 [Percentages]
-5. Lesson 11 [Permutations and Combinations] \
-↪ **60 min 🡆 30 questions** \
-↪ **MCQ pattern with 4/5 choices** \
-↪ **No negative marking** 
+### ꧁** Data Mining and Analysis ⭑⭒꧂
+
+1. Chapter - 03 [Classification Techniques]
+2. Chapter - 04 [Cluster Analysis]
 
 &nbsp;
+
+### ꧁** Software Engineering ⭑⭒꧂
+
+1. Chapter - 04 [System Modeling]
+2. Chapter - 05 [Architectural Design]
+3. Chapter - 06 [Object-Oriented design and implementation]
